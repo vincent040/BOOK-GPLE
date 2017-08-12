@@ -1,8 +1,8 @@
 # GPLE
 `Guide of Programming in the Linux Envirnment 《Linux环境编程图文指南》`
 
-![image](https://github.com/vincent040/lab/blob/master/res/GPLE.jpg?raw=true)
-[点击购买](https://item.jd.com/13154188753.html)
+![image](https://github.com/vincent040/lab/blob/master/res/GPLE.jpg?raw=true)  
+##### [点击购买](https://item.jd.com/13154188753.html)
  
 ## 图书信息
 * 书名：**《Linux环境编程图文指南》**
