@@ -3,7 +3,7 @@
 
 ![image](https://github.com/vincent040/lab/blob/master/res/GPLE.jpg?raw=true)
 
-## 图书信息
+### 图书信息
 * 书名：[《Linux环境编程图文指南》（点击购买）](https://item.jd.com/13154188753.html)
 * 出版社：北京电子工业出版社
 * ISBN：978-7-121-28075-7
