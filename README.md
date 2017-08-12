@@ -1,5 +1,5 @@
 # GPLE
-**《Linux环境编程图文指南》**(Guide of Programming in the Linux Envirnment)
+**《Linux环境编程图文指南》**(**G**uide of **P**rogramming in the **L**inux **E**nvirnment)
 
 ![image](https://github.com/vincent040/lab/blob/master/res/GPLE.jpg?raw=true)
 
