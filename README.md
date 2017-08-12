@@ -18,4 +18,4 @@
 * 第六章：Linux音频、视频编程
 
 ### 技术讨论群：
-本仓库为全书配套代码，欢迎购买了本书的读者加入QQ群找作者做技术答疑 <a href="//shang.qq.com/wpa/qunwpa?idkey=bc2c3338276a40ac72131230ad041a00c60a2fe45172ab6b9a93fea44cf0e6fa">![image](https://github.com/vincent040/lab/blob/master/res/QQ_qun.png?raw=true)
+本仓库为全书配套代码，这是我为广州粤嵌科技股份有限公司撰写的嵌入式教材之一，欢迎购买了本书的读者加入QQ群找我做技术答疑 <a href="//shang.qq.com/wpa/qunwpa?idkey=bc2c3338276a40ac72131230ad041a00c60a2fe45172ab6b9a93fea44cf0e6fa">![image](https://github.com/vincent040/lab/blob/master/res/QQ_qun.png?raw=true)
