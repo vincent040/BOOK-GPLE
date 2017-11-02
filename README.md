@@ -17,4 +17,4 @@
 * 第五章：Linux进程线程
 * 第六章：Linux音频、视频编程
 
-### 技术讨论群： <a href="//shang.qq.com/wpa/qunwpa?idkey=bc2c3338276a40ac72131230ad041a00c60a2fe45172ab6b9a93fea44cf0e6fa">![image](https://github.com/vincent040/lab/blob/master/res/QQ_qun.png?raw=true)  
+### 技术讨论群： <a href="//shang.qq.com/wpa/qunwpa?idkey=bc2c3338276a40ac72131230ad041a00c60a2fe45172ab6b9a93fea44cf0e6fa">![image](https://github.com/vincent040/lab/blob/master/resources/QQ_qun.png?raw=true)  
