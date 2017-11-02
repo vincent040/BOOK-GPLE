@@ -1,7 +1,7 @@
 # GPLE
 **《Linux环境编程图文指南》**(**G**uide of **P**rogramming in the **L**inux **E**nvirnment)
 
-![image](https://github.com/vincent040/lab/blob/master/res/GPLE.jpg?raw=true)
+![image](https://github.com/vincent040/lab/blob/master/resources/GPLE.jpg?raw=true)
 
 ### 图书信息
 * 书名：《Linux环境编程图文指南》（[点击购买](https://weidian.com/item.html?itemID=1773533784)）
